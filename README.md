@@ -7,6 +7,6 @@ http://web.stanford.edu/class/cs224w/
 
 - [x] Colab 1
 - [x] Colab 2
-- [ ] Colab 3
+- [x] Colab 3
 - [ ] Colab 4
 - [ ] Colab 5

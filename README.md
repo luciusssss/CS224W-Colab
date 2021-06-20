@@ -11,3 +11,11 @@ http://web.stanford.edu/class/cs224w/
 - [x] Colab 3
 - [ ] Colab 4
 - [x] Colab 5 (No code needed)
+
+## Problem with importing torch-geometric
+If you encounter problems about importing torch-geometric on Colab, you can go to https://colab.research.google.com/drive/1h3-vJGRVloF5zStxL5I0rSy4ZUPNsjy8 to get the correct installing commands for the newest version of torch and cuda, such as 
+```
+!pip install -q torch-scatter -f https://pytorch-geometric.com/whl/torch-1.9.0+cu102.html
+!pip install -q torch-sparse -f https://pytorch-geometric.com/whl/torch-1.9.0+cu102.html
+!pip install -q torch-geometric
+```

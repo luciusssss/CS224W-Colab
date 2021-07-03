@@ -9,7 +9,7 @@ http://web.stanford.edu/class/cs224w/
 - [x] Colab 1
 - [x] Colab 2
 - [x] Colab 3
-- [ ] Colab 4
+- [x] Colab 4
 - [x] Colab 5 (No code needed)
 
 ## Problem with importing torch-geometric
